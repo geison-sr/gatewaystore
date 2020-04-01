@@ -653,7 +653,7 @@
                                 <arg>/entrypoint.sh</arg>
                             </entrypoint>
                             <ports>
-                                <port>8080</port>
+                                <port>8008</port>
                                 <port>5701/udp</port>
                             </ports>
                             <environment>
